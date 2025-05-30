@@ -94,7 +94,7 @@ Responsive and minimalist site showcasing my work and experience.
 
 ### 📖 Russian Ethnical Dictionary App (2017-2020)
 - Android app explaining cultural terms in Russian  
-- 100K+ installs  
+- 100K+ Google Play installs  
 - 1st prize at Moscow student app competition (age 12)  
 📌 *Note: Legacy project. Source code is no longer recoverable.*
 
