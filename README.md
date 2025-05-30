@@ -1,16 +1,103 @@
-## Hi there 👋
+# 👋 Hi, I'm Anton  
+**Backend Systems Architect | CS Student @ UCSC**  
+📍 San Francisco Bay Area, CA  
+📧 anton@grachev.us | (650) 684-4048 | [LinkedIn](https://www.linkedin.com/in/anton-grachev/) | [Website](https://anton.grachev.us)
 
-<!--
-**ant0n-grachev/ant0n-grachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Fluent in Python, Go, C++, and Java   
+🚀 Interested in backend, ML, API design, data analysis  
+
+---
+
+## 🛠 Featured Projects
+
+### 🏋️ UCSC Gym Occupancy Tracker & Predictor (Python)
+**Predict low-traffic hours at the gym using scraped data and ML**  
+Students often face packed gyms with no easy way to plan visits. This tool:  
+- Scrapes occupancy data every 15 minutes  
+- Stores historical data for analysis  
+- Plans ML-based forecasting  
+- Will notify users via Telegram:  
+  *“Best window: 6:45-8:00 PM - avg. occupancy: 40”*  
+
+**Tech:** Python, BeautifulSoup, Requests, (ML + Telegram bot in progress)  
+🔗 [GitHub Repo](https://github.com/ant0n-grachev/occupancy-tracker)
+
+---
+
+### 🤖 Telegram Reservation Bot - UCSC Bistro (Python)
+**Automates table reservations via Telegram**  
+The UCSC Bistro is often fully booked. This bot lets users:  
+- Reserve directly from Telegram  
+- Validate inputs like email/phone/date  
+- Integrate with restaurant's private API  
+- Cancel anytime and get clear feedback  
+
+**Tech:** Python, aiogram 3.x, Requests, Telegram Bot API  
+🔗 [GitHub Repo](https://github.com/ant0n-grachev/telegram-reservation-bot)
+
+---
+
+### 📝 Simple Text Editor (C)  
+**Command-line text editor with undo and modular design**  
+Features include:  
+- Insert, delete, replace, append, clear  
+- Undo using stack of previous states  
+- ANSI C, linked list storage, memory safe  
+
+**Tech:** C  
+🔗 [GitHub Repo](https://github.com/ant0n-grachev/simple-text-editor)
+
+---
+
+### 🎮 Wordle Game (C)  
+**Terminal Wordle clone with color-coded logic**  
+- 5-letter word guessing game  
+- Accurate yellow/green/gray feedback  
+- Clean CLI interactions  
+
+**Tech:** C  
+🔗 [GitHub Repo](https://github.com/ant0n-grachev/wordle-game)
+
+---
+
+### 🃏 Blackjack (Java)  
+**Simple Java implementation of Blackjack**  
+- Hit/stand/bust game logic  
+- Console-based gameplay  
+- Great for early OOP practice  
+
+**Tech:** Java  
+🔗 [GitHub Repo](https://github.com/ant0n-grachev/BlackJack)
+
+---
+
+### 🌐 Personal Resume Website  
+**My own portfolio and resume, built from scratch**  
+Responsive and minimalist site showcasing my work and experience.
+
+**Tech:** HTML, CSS, JavaScript  
+🔗 [GitHub Repo](https://github.com/ant0n-grachev/ant0n-grachev.github.io)
+
+---
+
+## 🧠 Other Notable Projects
+
+### 🔐 Smart Access System (2021-2022)
+- QR-based secure building entry via Telegram  
+- PostgreSQL logging + user photo capture  
+- Deployed in production at my high school  
+📌 *Note: Legacy project. Source code is no longer recoverable.*
+
+### 📖 Russian Ethnical Dictionary App (2017-2020)
+- Android app explaining cultural terms in Russian  
+- 100K+ installs  
+- 1st prize at Moscow student app competition (age 12)  
+📌 *Note: Legacy project. Source code is no longer recoverable.*
+
+---
+
+Thanks for visiting. Feel free to explore the repos and reach out if you’d like to collaborate!
