@@ -7,7 +7,7 @@
 
 ## ⚡ About Me
 
-🧠 Fluent in Python, Go, C++, and Java   
+🧠 Code in Python, Go, C++, and Java   
 🚀 Interested in backend, ML, API design, data analysis  
 
 ---
