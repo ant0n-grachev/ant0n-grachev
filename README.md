@@ -20,7 +20,7 @@ The UCSC gym gets packed fast. This tool:
 - Scrapes occupancy every 15 mins
 - Logs historical trends
 - Trains a polynomial regression model
-- Helps students find the best time to work out
+- **Built from scratch, no ML libraries involved, only raw math**
 
 **Tech:** Python, BeautifulSoup, NumPy, Matplotlib, Gradient Descent with Regularization  
 🔗 [GitHub Repo](https://github.com/ant0n-grachev/occupancy-tracker)
