@@ -15,15 +15,14 @@
 ## 🛠 Featured Projects
 
 ### 🏋️ UCSC Gym Occupancy Tracker & Predictor (Python)
-**Predict low-traffic hours at the gym using scraped data and ML**  
-Students often face packed gyms with no easy way to plan visits. This tool:  
-- Scrapes occupancy data every 15 minutes  
-- Stores historical data for analysis  
-- Plans ML-based forecasting  
-- Will notify users via Telegram:  
-  *“Best window: 6:45-8:00 PM - avg. occupancy: 40”*  
+**Forecasts low-traffic hours using real data & ML**  
+The UCSC gym gets packed fast. This tool:
+- Scrapes occupancy every 15 mins
+- Logs historical trends
+- Trains a polynomial regression model
+- Helps students find the best time to work out
 
-**Tech:** Python, BeautifulSoup, Requests, (ML + Telegram bot in progress)  
+**Tech:** Python, BeautifulSoup, NumPy, Matplotlib, Gradient Descent with Regularization  
 🔗 [GitHub Repo](https://github.com/ant0n-grachev/occupancy-tracker)
 
 ---
