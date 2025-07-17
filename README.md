@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anton  
-**Backend Systems Architect | CS @ UCSC**  
-📍 San Francisco Bay Area, CA  
-📧 anton@grachev.us | (650) 684-4048 | [LinkedIn](https://www.linkedin.com/in/anton-grachev/) | [Website](https://anton.grachev.us)
+**Backend Systems Architect | CS @ UW-Madison**  
+📍 Madison, WI
+📧 anton@grachev.us | [LinkedIn](https://www.linkedin.com/in/anton-grachev/) | [Website](https://anton.grachev.us)
 
 ---
 
