@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anton  
 **Backend Systems Architect | CS @ UW-Madison**  
-📍 Madison, WI
+📍 Madison, WI  
 📧 anton@grachev.us | [LinkedIn](https://www.linkedin.com/in/anton-grachev/) | [Website](https://anton.grachev.us)
 
 ---
