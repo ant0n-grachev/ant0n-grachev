@@ -12,9 +12,24 @@
 
 ---
 
-## 🛠 Featured Projects
+## 🛠️ Featured Projects
 
-### 🏋️ UCSC Gym Occupancy Tracker & Predictor (Python)
+### 🎨 Christy Portfolio (Django)
+
+**Custom portfolio site built for an artist to showcase drawings and videos**
+Created this for my girlfriend so she could easily manage and display her art online. Features include:
+
+- Media-rich posts with optional video and cover image
+- Admin theme editor: background, header, colors, footer text, and more
+- Pinned label support, responsive UI, and automatic file cleanup
+- Real user, real deployment — she actively uses it!
+
+**Tech:** Django, Bootstrap 5, PostgreSQL, Azure Blob Storage, WhiteNoise, Gunicorn  
+🔗 [Live Site](https://portfolio.christypan.me) • [GitHub Repo](https://github.com/ant0n-grachev/christy_portfolio)
+
+---
+
+### 🏋️ Gym Occupancy Tracker Predictor (Python)
 **Forecasts low-traffic hours using real data & ML**  
 The UCSC gym gets packed fast. This tool:
 - Scrapes occupancy every 15 mins
@@ -27,7 +42,7 @@ The UCSC gym gets packed fast. This tool:
 
 ---
 
-### 🤖 Telegram Reservation Bot - UCSC Bistro (Python)
+### 🤖 Telegram Reservation Bot (Python)
 **Automates table reservations via Telegram**  
 The UCSC Bistro is often fully booked. This bot lets users:  
 - Reserve directly from Telegram  
