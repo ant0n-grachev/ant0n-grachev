@@ -14,7 +14,19 @@
 
 ## 🛠️ Featured Projects
 
-### 🚲 Madison BCycle Router
+### 🏋️ RecLive
+**Real-time dashboard predicting intraday gyms occupancy at UW–Madison**  
+Features include:
+- Live occupancy visualization by facility
+- Intraday occupancy prediction by XGBoost
+- Mobile-first, responsive UI
+
+**Tech**: React 19, TypeScript, Vite, Fetch API, Material UI, XGBoost, Python  
+🔗 [Live Site](https://reclive.netlify.app) • [GitHub Repo](https://github.com/ant0n-grachev/RecLive)
+
+---
+
+### 🚲 Madison's BRouter
 **Single-page app for planning seamless BCycle trips in Madison**  
 Features include:
 - Location-aware start
