@@ -13,8 +13,11 @@ I build backend APIs and full-stack tools that turn live data into something peo
 
 ## Skills
 
-- **Backend and data** — Go in production, Python, SQL, FastAPI, API design, and applied forecasting with XGBoost.
-- **Web and delivery** — React, TypeScript, browser extensions, Docker, and CI/CD with GitLab CI and GitHub Actions.
+- **Programming** — Python, Go, Java
+- **Backend & Databases** — API design, microservices, PostgreSQL, SQL
+- **Frontend & Web** — React, TypeScript
+- **Tools & DevOps** — Docker, Kubernetes, GitHub Actions, GitLab CI/CD
+- **ML/Data** — XGBoost, scikit-learn
 
 ## Contact
 
