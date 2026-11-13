@@ -1,6 +1,6 @@
 # Anton Grachev
 
-I build backend APIs and full-stack tools that turn live data into something people can use. The projects below cover forecasting, route planning and navigation, and browser extensions. Each repository explains how the project works, how to try it, and what its tests cover.
+I build backend APIs and full-stack tools that turn live data into something people can use.
 
 ## Featured projects
 
